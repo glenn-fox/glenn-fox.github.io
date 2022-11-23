@@ -1,6 +1,5 @@
 title: Glenn Fox
-# logo: /assets/img/logo.png
 description: Portfolio
-# show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
