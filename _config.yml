@@ -1,6 +1,5 @@
 title: Glenn Fox
 description: e-Portfolio
 show_downloads: false
-logo: ./assets/img/pic.jpg
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate

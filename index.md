@@ -9,13 +9,7 @@ I started my degree in Computer Science in May 2018 at SNHU. Since starting I ha
 
 * * *
 
-## 2. Code Review
-
-[Code review video](https://www.youtube.com/watch?v=_50OmyEW5Zs)
-
-* * *
-
-## 3. Software Design and Engineering
+## 2. Software Design and Engineering
 
 [Link to project Github](https://github.com/glenn-fox/LCR)
 
@@ -25,15 +19,15 @@ I enhanced the artifact by adding more to the player class. I added a variable t
 
 #### This is the main menu of the LCR game
 
-![LCR Output 1](./assets/img/LCR1.jpg)
+![LCR Output 1](./assets/images/LCR1.jpg)
 
 #### Here is a sample of the result of a roll
 
-![LCR Output 2](./assets/img/LCR2.jpg)
+![LCR Output 2](./assets/images/LCR2.jpg)
 
 * * *
 
-## 4. Algorithm and Data Structures
+## 3. Algorithm and Data Structures
 
 [Link to project Github](https://github.com/glenn-fox/Sudoku)
 
@@ -43,11 +37,11 @@ Making this enhancement satisfies the course outcome: “The student demonstrate
 
 #### This is the output after running the tests
 
-![Sudoku Output](./assets/img/Sudoku1.jpg)
+![Sudoku Output](./assets/images/Sudoku1.jpg)
 
 * * *
 
-## 5. Database
+## 4. Database
 
 [Link to project Github](https://github.com/glenn-fox/RegisterStudent)
 
@@ -57,11 +51,8 @@ Making these changes show that I achieved the course outcomes: “the student de
 
 #### This the main menu and a search of the database for a student Id
 
-![Database Output 1](./assets/img/DB1.jpg)
+![Database Output 1](./assets/images/DB1.jpg)
 
 #### Here is a listing of the courses in the database
 
-![Database Output 2](./assets/img/DB2.jpg)
-
-
-* * *
+![Database Output 2](./assets/images/DB2.jpg)
